@@ -1,11 +1,25 @@
-.header{
-    background: gray;
+body{
+    margin: 0;
 }
 
+.header{
+    background: gray;
+    padding: 20px;
+}
+
+.header-title{
+    margin-top: 0;
+}
+
+.header-nav{
+    margin: 50px 0;
+}
 .main{
     background: lightgrey;
+    padding: 20px;
 }
 
 .footer{
     background: gray;
+    padding: 10px 20px;
 }
